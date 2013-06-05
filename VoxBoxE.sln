@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "Test.vcxproj", "{3AEE6A68-3BBA-4294-BCCA-37C465496C19}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Engine", "Engine\Engine.vcxproj", "{AFA70012-864E-40A3-BF12-1B748CFC986E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -13,6 +15,10 @@ Global
 		{3AEE6A68-3BBA-4294-BCCA-37C465496C19}.Debug|Win32.Build.0 = Debug|Win32
 		{3AEE6A68-3BBA-4294-BCCA-37C465496C19}.Release|Win32.ActiveCfg = Release|Win32
 		{3AEE6A68-3BBA-4294-BCCA-37C465496C19}.Release|Win32.Build.0 = Release|Win32
+		{AFA70012-864E-40A3-BF12-1B748CFC986E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFA70012-864E-40A3-BF12-1B748CFC986E}.Debug|Win32.Build.0 = Debug|Win32
+		{AFA70012-864E-40A3-BF12-1B748CFC986E}.Release|Win32.ActiveCfg = Release|Win32
+		{AFA70012-864E-40A3-BF12-1B748CFC986E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
