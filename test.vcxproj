@@ -14,6 +14,7 @@
     <ProjectGuid>{3AEE6A68-3BBA-4294-BCCA-37C465496C19}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>VoxBoxE</RootNamespace>
+    <ProjectName>Test</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -73,9 +74,6 @@
       <OptimizeReferences>true</OptimizeReferences>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <None Include="ReadMe.txt" />
-  </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp" />
   </ItemGroup>
